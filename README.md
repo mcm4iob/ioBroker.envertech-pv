@@ -76,6 +76,7 @@ Ideally, please use GitHub issues for this, with the best method achieved by set
 ### **WORK IN PROGRESS**
 - (copilot) Adapter requires node.js >= 22 now
 - (copilot) Adapter requires admin >= 7.7.22 now
+- (mcm1957) Dependencies have been updated
 
 ### 1.5.1 (2026-02-14)
 -   (mcm1957) Dependencies have been updated.
