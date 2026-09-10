@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "envertech-pv",
-    "version": "1.5.1",
+    "version": "1.6.0",
     "news": {
+      "1.6.0": {
+        "en": "Adapter requires node.js >= 22 now\nAdapter requires admin >= 7.7.22 now\nDependencies have been updated",
+        "de": "Adapter benötigt jetzt node.js >= 22\nAdapter benötigt jetzt admin >= 7.7.22\nAbhängigkeiten wurden aktualisiert",
+        "ru": "Теперь для адаптера требуется файл node.js >= 22\nДля адаптера теперь требуется администратор >= 7.7.22\nЗависимости обновлены",
+        "pt": "O adaptador exige node.js >= 2\nAgora o adaptador exige admin >= 7.7.2\nAs dependências foram atualizadas",
+        "nl": "Voor de adapter is nu node.js >= 22 nodig\nAdapter vereist nu admin >= 7.7.22\nAfhankelijkheden zijn bijgewerkt",
+        "fr": "Adapter nécessite node.js >= 22\nAdapter nécessite admin >= 7.7.22\nLes dépendances ont été mises à jour",
+        "it": "Adapter richiede node.js =2 ora\nAdapter richiede admin >= 7.7.2 ora\nLe dipendenze sono aggiornate",
+        "es": "El adaptador necesita node.js >= 22 ahora\nEl adaptador necesita admin >= 7.7.22 ahora\nSe han actualizado las dependencias",
+        "pl": "Adapter wymaga teraz node.js >= 22\nAdapter wymaga administratora >= 7.7.22 teraz\nZależności zostały zaktualizowane",
+        "uk": "Адаптер вимагає node.js >= 22 зараз\nАдаптер вимагає адміністратора >= 7.7.22 зараз\nЗалежності оновлено",
+        "zh-cn": "适配器现在需要 node.js >= 22\n适配器现在需要管理员 >= 7.7.22\n依赖关系已更新"
+      },
       "1.5.1": {
         "en": "Dependencies have been updated.",
         "de": "Abhängigkeiten wurden aktualisiert.",

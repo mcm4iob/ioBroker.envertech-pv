@@ -72,8 +72,7 @@ Ideally, please use GitHub issues for this, with the best method achieved by set
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-
-### **WORK IN PROGRESS**
+### 1.6.0 (2026-09-10)
 - (copilot) Adapter requires node.js >= 22 now
 - (copilot) Adapter requires admin >= 7.7.22 now
 - (mcm1957) Dependencies have been updated
@@ -93,13 +92,6 @@ Ideally, please use GitHub issues for this, with the best method achieved by set
 ### 1.3.2 (2024-03-28)
 -   (mcm1957) Adapter supports multiple pages returned from Envertech now. This will allow more than 20 inverters per station.
 -   (mcm1957) Adapter requires js-controller >= 5 now.
--   (mcm1957) Dependencies have been updated.
-
-### 1.2.0 (2024-03-21)
--   (mcm1957) New states GridPower and LoadPower have been added [#147].
--   (mcm1957) Processing of strIncome has been fixed [#46].
--   (mcm1957) Incorrect description has been corrected [#50].
--   (mcm1957) State roles have been checked and adapter [#75].
 -   (mcm1957) Dependencies have been updated.
 
 [Older changelogs can be found there](CHANGELOG_OLD.md)

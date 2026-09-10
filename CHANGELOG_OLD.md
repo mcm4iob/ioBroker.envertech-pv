@@ -1,4 +1,12 @@
 # Older changes
+## 1.2.0 (2024-03-21)
+-   (mcm1957) New states GridPower and LoadPower have been added [#147].
+-   (mcm1957) Processing of strIncome has been fixed [#46].
+-   (mcm1957) Incorrect description has been corrected [#50].
+-   (mcm1957) State roles have been checked and adapter [#75].
+-   (mcm1957) Dependencies have been updated.
+
+
 ## 1.1.0 (2023-11-12)
 -   (mcm1957) Adapter requires nodejs 18 now.
 -   (mcm1957) Incorrect energy units have been corrected. [#113]
