@@ -117,7 +117,7 @@
           "uk": "Настроювання даних та структури держави змінено з релізом 1.0.0 Будь ласка, видаліть існуючі релізи старше 1.0.0 і видаліть всі державніоб'єкти до оновлення версії 2.0.0 або новачка.\n",
           "zh-cn": "综合数据和国家结构已发生变化,释放了1.0.0 请尽量减少超过1.0.0的现有排放,并在升级到2.0.0或新版之前删除所有国家目标。.\n"
         },
-        "link": "https://github.com/iobroker-community-adapters/ioBroker.envertech-pv#changelog",
+        "link": "https://github.com/mcm4iob/ioBroker.envertech-pv#changelog",
         "level": "warn",
         "linkText": {
           "en": "Changelog",
@@ -166,8 +166,7 @@
     },
     "authors": [
       "adcrafter27 <adcrafter27@gmail.com>",
-      "mcm1957 <mcm57@gmx.at>",
-      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
+      "mcm1957 <mcm57@gmx.at>"
     ],
     "keywords": [
       "Envertech",
@@ -192,8 +191,8 @@
     "icon": "envertech-pv.png",
     "enabled": true,
     "messagebox": true,
-    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.envertech-pv/master/admin/envertech-pv.png",
-    "readme": "https://github.com/iobroker-community-adapters/ioBroker.envertech-pv/blob/master/README.md",
+    "extIcon": "https://raw.githubusercontent.com/mcm4iob/ioBroker.envertech-pv/master/admin/envertech-pv.png",
+    "readme": "https://github.com/mcm4iob/ioBroker.envertech-pv/blob/master/README.md",
     "loglevel": "info",
     "tier": 2,
     "mode": "daemon",
